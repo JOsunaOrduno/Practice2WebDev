@@ -1,0 +1,54 @@
+.wp{
+  background-image: url("../imgs/wp1.jpg");
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 350px;
+  width: 100%;
+  filter:grayscale(10%)
+}
+
+
+.icon-100 {
+  font-size: 50px;
+  color: skyblue;
+ }
+.icon-200 { font-size: 200px; }
+.icon-300 { font-size: 300px; }
+
+.btn-circle.btn-xl {
+  width: 100px;
+  height: 100px;
+  padding: 10px 16px;
+  border-radius: 100px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding: 6px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+.servicios{
+  width: 100%;
+  max-width: 800px;
+  box-shadow: 5px 5px 10px 0px black;
+  border-radius: 15px;
+
+}
+
+.contacto-form{
+  background-color: rgb(100, 100, 100);
+  border-radius: 15px;
+}
+
+.fondo{
+  background: #9bd2d4;
+}
+
+
